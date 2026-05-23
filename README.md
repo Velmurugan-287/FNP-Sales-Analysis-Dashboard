@@ -30,3 +30,7 @@ This is an interactive Sales Analysis Dashboard built using Microsoft Excel to a
 - Excel Dashboard
 - Dashboard Screenshot
 - Executive Summary PDF
+
+
+<img width="1845" height="769" alt="Screenshot 2026-05-23 213219" src="https://github.com/user-attachments/assets/fd85d254-8eab-43b7-ad3f-ccdfd4c0ef0f" />
+
